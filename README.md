@@ -1,0 +1,1 @@
+This app is just a Widget whose function is to play a Gif or image depending on your preference, inspired by the "Konata_Dancer" project whose author I do not know, the project was developed in Visual Studio 2019 and it is in this IDE where it is recommended to run for modification to the user's liking.
